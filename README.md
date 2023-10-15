@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mario Nunes 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinhonunes&show_icons=true&theme=transparent)](https://github.com/marinhonunes)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinhonunes&show_icons=true&theme=tokyonight)](https://github.com/marinhonunes)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
